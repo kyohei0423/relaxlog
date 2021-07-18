@@ -33,6 +33,13 @@
     "customer-e2e": {
       "tags": [],
       "implicitDependencies": ["customer"]
+    },
+    "shop": {
+      "tags": []
+    },
+    "shop-e2e": {
+      "tags": [],
+      "implicitDependencies": ["shop"]
     }
   }
 }
